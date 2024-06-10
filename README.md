@@ -29,3 +29,5 @@
 > import {Day, Opportunity} from 'life';
 > new Day(new Opportunity());
 > ```
+
+[!Snake animation](https://github.com/indigo011)
