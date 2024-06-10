@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Nicolas Daniel 💅
 
-- 👜 Hoje estagio como desenvolvedor na Perícia Oficial e Identificação Técnica 
+- 👜 Hoje estagio como desenvolvedor na Perícia Oficial e Identificação Técnica - POLITEC 
 - 😙 Pronomes: ele/dele
 
 ![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=indigo011&show_icons=true&theme=radical)
