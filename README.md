@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Nicolas Daniel 💅
+### Olá! Eu sou o Nick 💅
 
 - 👜 Atualmente, atuando como estagiário em desenvolvimento front-end na Perícia Oficial e Identificação Técnica - POLITEC 
 - 😙 Pronomes: ele/dele
