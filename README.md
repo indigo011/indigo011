@@ -16,6 +16,8 @@
       <img align="center" height="30" width="40" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
       <img align="center" height="30" width="40" alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
       <img align="center" height="30" width="40" alt="c" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+      <img align="right"  width="120" alt="me" src="https://cdn.discordapp.com/attachments/1181413222536986666/1249811587662090390/me.gif?ex=6668a93e&is=666757be&hm=56ae155f296d39638918735f10a6ba43d9fd025e7e8f4a381f9cb5931964eb21&" />
+      
 </div>
 
 ## 
