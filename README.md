@@ -1,7 +1,6 @@
 
 ### Oiee! Eu sou o Nick 💅
 
-- 👜 Atualmente, atuando como estagiário em desenvolvimento front-end na Perícia Oficial e Identificação Técnica - POLITEC 
 - 😙 Pronomes: ele/dele
 
 ![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=indigo011&show_icons=true&theme=radical)
